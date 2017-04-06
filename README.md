@@ -13,4 +13,8 @@
 # Distance between two coordinates (2st Problem) #
 1. main.py reads the friends.json file and print the lists of friends with user id sorted by user_id within the 100km of GPS coordinates 12.9611159,77.6362214 .
 2. haversine formula is used to calculate distance between two given coordinates.
+<<<<<<< HEAD
 3. test_main.py test get_friends() and distance() functions.
+=======
+3. test_main.py test get_friends() and distance() functions.
+>>>>>>> ac699c3089588465d8bf5aaa6db6dd6c4bd21c14
