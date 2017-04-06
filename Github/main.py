@@ -5,7 +5,7 @@ from pprint import pprint
 	
 if __name__ == '__main__':
 	
-	username = input("Enter a Github Username : 	")
+	username = input("Enter a Github Username : ")
 	repolist = []
 	repos = public_repositories(username)
 	if not repos:
